@@ -1,5 +1,5 @@
 # APT Proc
-Process images from NOAA APT sattelite broadcasts.
+Process images from NOAA APT satellite broadcasts.
 
 ## Setup
 ```bash
